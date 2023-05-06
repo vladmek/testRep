@@ -1,3 +1,3 @@
 # testRep
-add some text
-change fix2
+text fix1
+text fix2
